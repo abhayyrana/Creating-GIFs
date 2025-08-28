@@ -16,3 +16,6 @@ This project demonstrates how to generate, edit, and save GIFs programmatically 
 
 ## 📂 Repository Structure  
 
+| 🐥 Chicklet         | 🦖 Dino         | 🦄 Hippocorn         | 🌌 Nyan Cat         |
+| ------------------- | --------------- | -------------------- | ------------------- |
+| ![](./chicklet.gif) | ![](./dino.gif) | ![](./hippocorn.gif) | ![](./nyan_cat.gif) |
